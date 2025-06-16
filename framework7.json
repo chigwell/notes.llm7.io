@@ -1,0 +1,17 @@
+{
+  "type": [
+    "web"
+  ],
+  "name": "notes.llm7.io",
+  "framework": "react",
+  "template": "split-view",
+  "bundler": "vite",
+  "cssPreProcessor": false,
+  "theming": {
+    "customColor": false,
+    "color": "#007aff",
+    "darkMode": true,
+    "iconFonts": true
+  },
+  "customBuild": false
+}
